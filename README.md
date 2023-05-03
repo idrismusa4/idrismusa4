@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on front end projects and Also creating UI interfaces with figma <br>🤝 I’m looking for help with react js<br>🌱 I’m currently learning react js <br>💬 Ask me about anything tech related<br>⚡ Fun fact
+🔭 I’m currently working on an Edtech Startup <br>👯 I’m looking to collaborate on front end projects and Also creating UI interfaces with figma <br>🤝 I’m looking for help with react js<br>🌱 I’m currently learning react js and Django<br>💬 Ask me about anything tech related<br>⚡ Fun fact: I love Assasin's Creed😁
 
 
 ## 🌐 Socials:
