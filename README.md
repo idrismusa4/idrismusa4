@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=idrismusa4&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idrismusa4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+# Open Source Contributions
+[![An image of @idrismusa4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/idrismusa4)](https://holopin.io/@idrismusa4)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://www.twitter.com/shaboom42)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
